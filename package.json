@@ -2,17 +2,14 @@
   "name": "param-editor-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://yana-pavlova.github.io/param-editor-app/",
   "dependencies": {
-    "@testing-library/jest-dom": "^5.17.0",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
     "@types/react": "^18.3.12",
     "@types/react-dom": "^18.3.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
-    "typescript": "^5.7.2",
-    "web-vitals": "^2.1.4"
+    "typescript": "^5.7.2"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -40,6 +37,5 @@
   },
   "devDependencies": {
     "gh-pages": "^6.2.0"
-  },
-  "homepage": "https://yana-pavlova.github.io/param-editor-app/"
+  }
 }
