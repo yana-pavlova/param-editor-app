@@ -1,12 +1,10 @@
-In the project directory, you can run:
+deploy: <a href="https://yana-pavlova.github.io/param-editor-app/">https://yana-pavlova.github.io/param-editor-app/</a>
 
-### `npm start`
+## How to run the project
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+```
+npm i
+npm run start
+```
 
-The page will reload when you make changes.\
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.
+The app will be on [http://localhost:3000](http://localhost:3000).
